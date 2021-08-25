@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sayyed Mohammad ADil
+- 👋 Hi, I’m Sayyed Mohammad Adil
 - 👀 I am a Full Stack Web Developer
 - 🌱 I have hands on knowledge of Frontend including Html, CSS, Bootstrap4, JavaScript, React.JS &
       Backend Node.JS & Express.JS along with Database such as MySql, MongoDb & Mongoose
